@@ -52,10 +52,10 @@
     {
       "group": "Get Started",
       "pages": [
+        "start",
         "introduction",
         "quickstart",
-        "development",
-        "start"
+        "development"
       ]
     },
     {
